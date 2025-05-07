@@ -1,0 +1,72 @@
+# Node modules
+/node_modules
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/.angular
+
+# Build artifacts
+/build
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+/.vscode
+/.idea
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Angular specific
+/angular.json
+/.angular/cache
+
+# Optional npm cache directory
+.npm
+
+# Output of 'ng build'
+/dist/
+/coverage
+
+# Testing
+/karma-coverage
+/coverage
+/test-results
+
+# Compiled JavaScript
+*.js
+*.map
+
+# Compiled Sass
+*.css.map
+*.scssc
+
+# Misc
+.sass-cache
+connect.lock
+jspm_packages
+typings
+tslint.debug
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Mac system files
+*.DS_Store
