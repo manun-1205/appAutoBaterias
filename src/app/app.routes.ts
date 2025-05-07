@@ -1,6 +1,6 @@
 import { RouterModule,Routes } from '@angular/router';
 import { NgModule } from '@angular/core';
-import { VentanaPrincipalComponentComponent } from './VentanaPrincipal/VentanaPrincipal.component';
+import { VentanaPrincipalComponentComponent } from '../app/models/VentanaPrincipal/VentanaPrincipal.component';
 
 
 export const routes: Routes = [
