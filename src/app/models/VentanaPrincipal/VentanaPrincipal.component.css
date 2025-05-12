@@ -95,6 +95,7 @@
   background: linear-gradient(45deg, rgb(0, 247, 255), yellow);
   animation: cambiarColores 4s linear infinite;
   background-size: 1500% 1500%;
+  cursor: pointer;
 }
 
 @keyframes cambiarColores {
